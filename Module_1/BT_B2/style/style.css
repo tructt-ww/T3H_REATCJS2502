@@ -1,0 +1,52 @@
+body {
+  width: 50%;
+  padding-left: 100px;
+}
+p {
+  margin: 0;
+}
+.info {
+  width: 100%;
+  overflow: auto;
+}
+.name {
+  width: 60%;
+  height: 200px;
+  float: left;
+}
+.name h1 {
+  margin-top: 24px;
+  margin-bottom: 4px;
+}
+.contact {
+  margin-top: 24px;
+}
+.contact p {
+  padding-top: 8px;
+}
+.title {
+  padding-bottom: 36px;
+}
+.sub_title,
+.sub_list {
+  padding-top: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+.sub_list p {
+  padding-bottom: 8px;
+}
+.title h3 {
+  font-size: 16px;
+  letter-spacing: 3px;
+  margin-bottom: 4px;
+}
+.head_1 {
+  font-weight: 600;
+}
+.head_2 {
+  color: grey;
+}
+ul {
+  margin: 8px 0;
+}
