@@ -107,3 +107,47 @@ hr {
 .text_center p {
   padding: 36px 42px;
 }
+/* bai tap 5 */
+.main_bt5 {
+  position: relative;
+  padding: 0 40px;
+  background-color: burlywood;
+}
+.header {
+  background-color: aqua;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+}
+.signin {
+  display: flex;
+  flex-direction: row;
+}
+.signin button {
+  padding: 6px 12px;
+  background-color: green;
+  color: white;
+  border-radius: 3px;
+}
+.content_bt5 {
+  width: 40%;
+  background-color: aquamarine;
+  padding: 60px 16px 0 16px;
+}
+.create_btn {
+  padding: 6px 12px;
+  background-color: green;
+  color: white;
+  border-radius: 3px;
+}
+.position_logo {
+  position: absolute;
+  right: 120px;
+  top: 120px;
+  border-radius: 50%;
+}
