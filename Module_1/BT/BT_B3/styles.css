@@ -62,3 +62,26 @@ hr {
   margin: 18px 0;
 }
 /* bai tap 3 */
+.menu {
+  display: flex;
+  background-color: rgb(28, 28, 29);
+  padding: 0 16px;
+}
+.menu a {
+  color: white;
+  text-decoration: none;
+  margin-right: 36px;
+}
+.menu a:hover {
+  color: yellow;
+  text-decoration: none;
+  transition: 0.5s;
+}
+.main_page {
+  border-radius: 3px;
+  border-width: 1px;
+  background-color: rgb(183, 183, 189);
+  padding: 8px 16px;
+  margin-left: 0;
+  margin-right: 20px !important;
+}
