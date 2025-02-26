@@ -1,0 +1,64 @@
+body {
+  padding: 60px;
+}
+
+/* Bai tap 1 */
+.box_1 {
+  width: 600px;
+  padding: 0 8px 0 16px;
+  border-width: 1px;
+  border-radius: 4px;
+  border-style: double;
+  border-color: rgb(163, 163, 165);
+}
+.pic_1 {
+  width: 100%;
+  height: 100%;
+}
+.content_1 {
+  margin: 24px 0;
+}
+.img_1 {
+  padding: 4px;
+  width: 590px;
+  height: 390px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(163, 163, 165);
+}
+/* Bai tap 2 */
+.box_2 {
+  width: 300px;
+  padding: 20px;
+  border-width: 1px;
+  border-radius: 4px;
+  border-style: double;
+  border-color: rgb(163, 163, 165);
+}
+.pic_2 {
+  width: 100%;
+  height: 100%;
+}
+
+.img_2 {
+  width: 300px;
+  height: 300px;
+}
+.content_2 h3 {
+  margin: 0;
+}
+.content_2 p {
+  margin: 8px 0;
+}
+.btn {
+  color: white;
+  background-color: green;
+  padding: 8px 16px;
+  border-radius: 6px;
+  border-color: transparent;
+}
+hr {
+  width: 298px;
+  margin: 18px 0;
+}
+/* bai tap 3 */

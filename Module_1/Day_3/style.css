@@ -1,0 +1,11 @@
+div {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+}
+.mr {
+  margin: 10px;
+}
+.pd {
+  padding: 10px;
+}
