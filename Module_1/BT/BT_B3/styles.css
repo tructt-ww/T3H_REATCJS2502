@@ -85,3 +85,25 @@ hr {
   margin-left: 0;
   margin-right: 20px !important;
 }
+/* Bai tap 4 */
+.box_4 {
+  width: 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px;
+  background-color: rgb(93, 91, 95);
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.text p {
+  padding: 36px 72px;
+  background-color: aquamarine;
+  text-align: center;
+}
+.text_center p {
+  padding: 36px 42px;
+}
